@@ -1,0 +1,17 @@
+Glosario
+
+Bases de datos: Una base de datos es una colección organizada de información estructurada, o datos, típicamente almacenados electrónicamente en un sistema de computadora ( https://www.oracle.com/mx/database/what-is-database )
+
+DOM: El DOM ( Modelo de Objetos de Documento en español Modelo de Objetos del Documento) es una API definida para representar e interactuar con cualquier documento HTML o XML. El DOM es un modelo de documento que se carga en el navegador web y que representa el documento como un árbol de nodos, en donde cada nodo representa una parte del documento (puede tratarse de un elemento, una cadena de texto o un comentario). ( https://developer.mozilla.org/es/docs/Glossary/DOM )
+
+Frameworks: La traducción literal de framework es ' marco de referencia ', y explica muy bien lo que significa. Un framework es un patrón o esquema que ayuda a la programación a estructurar el código ya ahorrar tiempo y esfuerzos a los programadores. ( https://fp.uoc.fje.edu/blog/que-es-un-framework-en-programacion/ )
+
+LAN: LAN (red de área local) describe una red cuya área geográfica no se extiende más de una milla ( http://www.frlp.utn.edu.ar/materias/info2/Redes%20Lan.html )
+
+Python: Python es un lenguaje de scripting independiente de plataforma y orientado a objetos, preparado para realizar cualquier tipo de programa, desde aplicaciones Windows a servidores de red o incluso, páginas web. Es un lenguaje interpretado, lo que significa que no se necesita compilar el código fuente para poder ejecutarlo, lo que ofrece ventajas como la rapidez de desarrollo e inconvenientes como una menor velocidad ( https://desarrolloweb.com/articulos/1325.php )
+
+Rails: Ruby on Rails (o simplemente Rails) es un framework Open Source, multiplataforma y basado en el lenguaje de scripting Ruby que facilita sobremanera el diseño y desarrollo de aplicaciones web que acceden a bases de datos. Rails separa automáticamente en tres capas todos los componentes de una aplicación web (Model, View y Controller: MVC), lo que hace más sencillo y rápido el mantenimiento de aplicaciones que en otros entornos ( https://www.spri.eus/euskadinnova /es/enpresa-digitala/agenda/introduccion-ruby-rails-completo/709.aspx#:~:text=Ruby%20on%20Rails%20 )
+
+Swift: Swift es un lenguaje intuitivo de programación de código abierto creado por Apple que permite diseñar aplicaciones para iOS, Mac, el Apple TV y el Apple Watch. ( https://www.apple.com/es/swift/ ).
+
+WAN: (Wide Area Network) describe una red cuya área geográfica excede a la de una ciudad. A menudo, varias LAN o varias MAN son enlazadas para crear una WAN ( http://www.frlp.utn.edu.ar/materias/info2/Redes%20Lan.html )
